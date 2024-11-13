@@ -14,4 +14,4 @@ docs/
 .env
 
 # Resources 
-lib/openzeppelin/
+lib/openzeppelin-contracts/

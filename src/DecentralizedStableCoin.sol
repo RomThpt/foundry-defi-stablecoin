@@ -7,7 +7,7 @@ import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 
 /*
  * @title: DecentralizedStableCoin
- * @author: Patrick "Long Course" Collins
+ * @author: RomThpt
  * Collateral: Exogenous (ETH & BTC)
  * Minting: Algorithmic
  * Relative Stability: Pegged to USD
